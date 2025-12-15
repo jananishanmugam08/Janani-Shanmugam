@@ -1,8 +1,8 @@
 # Janani-Shanmugam
 Hi.. I'm Janani
 
-Learing Web Development
+Learning Web Development
 
 Skills: HTML,CSS
 
-Goal: Frontend Developer
+Goal: Fullstack Developer
